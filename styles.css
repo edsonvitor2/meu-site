@@ -151,6 +151,15 @@ nav ul li a {
     cursor: pointer;
     background-color: rgba(105, 97, 97, 0.7);
 }
+.whats{
+    width: 7%;
+    position: fixed;
+    right: 1%;
+    bottom: 1%;
+}
+.whats img{
+    width: 100%;
+}
 
 footer {
     text-align: center;
